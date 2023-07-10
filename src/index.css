@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@import url(./blocks/Main/main.css);
+@import url(./blocks/header/header.css);
+@import url(./blocks/header/__routes/header__routes.css);
+@import url(./blocks/header/__items/header__items.css);
+@import url(./blocks/header/__item/header__item.css);
+@import url(./blocks/about/about.css);
+@import url(./blocks/about/__picture/about__picture.css);
+@import url(./blocks/about/__info/about__info.css);
+@import url(./blocks/about/__items/about__items.css);
+@import url(./blocks/about/__item/about__item.css);
+@import url(./blocks/about/__item/_span/about__item_span.css);
+@import url(./blocks/main-section/main-section.css);
+@import url(./blocks/main-section/__title/main-section__title.css);
+@import url(./blocks/main-section/__steck-items/main-section__steck-items.css);
+@import url(./blocks//main-section/__card/main-section__card.css);
+@import url(./blocks//main-section/__card-picture/main-section__card-picture.css);
+@import url(./blocks/main-section/__card-text/main-section__card-text.css);
+@import url(./blocks/main-section/__card/_flip/main-section__card_flip.css);
+@import url(./blocks/footer/footer.css);

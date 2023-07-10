@@ -1,0 +1,6 @@
+.main-section__card-picture {
+  width: 300px;
+  height: 300px;
+  position: absolute;
+  backface-visibility: hidden;
+}

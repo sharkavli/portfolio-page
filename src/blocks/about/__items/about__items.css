@@ -1,0 +1,7 @@
+.about__items {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  padding-left: 20px;
+}

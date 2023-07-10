@@ -1,0 +1,11 @@
+.about__picture {
+  width: 360px;
+  border-radius: 20px;
+  cursor: pointer;
+  animation: bigger 1s ease-in-out;
+}
+
+.about__picture:hover {
+  transform: scale(1.1);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}

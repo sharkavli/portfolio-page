@@ -1,9 +1,9 @@
-import iconReact from '../images/iconReact.png';
-import iconHtml from '../images/iconHtml.png';
-import iconJs from '../images/iconJavaScript.png';
-import iconCss from '../images/iconCss.png';
-import iconWebpack from '../images/iconWebpack.png';
-import iconNode from '../images/iconNode.png';
+import iconReact from '../../images/iconReact.png';
+import iconHtml from '../../images/iconHtml.png';
+import iconJs from '../../images/iconJavaScript.png';
+import iconCss from '../../images/iconCss.png';
+import iconWebpack from '../../images/iconWebpack.png';
+import iconNode from '../../images/iconNode.png';
 import React from 'react';
 
 export default function MainSection() {

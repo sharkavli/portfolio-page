@@ -1,4 +1,4 @@
-import Header from './Header.js';
+import Header from '../Header.js';
 import About from './About.js';
 import MainSection from './MainSection.js';
 import Footer from './Footer.js';

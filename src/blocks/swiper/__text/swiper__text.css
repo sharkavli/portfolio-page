@@ -1,0 +1,5 @@
+.swiper__text {
+  position: absolute;
+  backface-visibility: hidden;
+  transform: rotateY(180deg);
+}

@@ -1,0 +1,3 @@
+.swiper__card_fliped {
+  transform: rotateY(180deg);
+}

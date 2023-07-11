@@ -1,0 +1,4 @@
+.AboutMe {
+  display: flex;
+  flex-direction: column;
+}

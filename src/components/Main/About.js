@@ -1,4 +1,4 @@
-import myPicture from '../images/myPicture.jpg';
+import myPicture from '../../images/myPicture.jpg';
 
 export default function About() {
   return (
@@ -16,6 +16,11 @@ export default function About() {
             <span className="about__item_span">Навыки:</span>JavaScript, HTML,
             CSS(По этой страничке уже должно быть понятно😃), React, Webpack,
             API
+          </li>
+          <li className="about__item">
+            <span className="about__item_span">Не умею:</span>В дизайн. По этому
+            сайту должно быть понятно, но я старался больше показать свои
+            возможности кодинга. Дизайн странички разрабатывал я, как умею🤓
           </li>
         </ul>
       </div>

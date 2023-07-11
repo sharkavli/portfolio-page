@@ -5,6 +5,9 @@ export default function Header() {
     <div className="header">
       <div className="header__routes">
         <ul className="header__items">
+          <Link className="header__item" to="/portfolio-page">
+            🏠
+          </Link>
           <Link className="header__item" to="/about-me">
             Обо мне
           </Link>
@@ -14,7 +17,7 @@ export default function Header() {
           <Link className="header__item" to="/cooperation">
             Сотрудничество
           </Link>
-          <Link className="header__item" to="social">
+          <Link className="header__item" to="/social">
             Соц-сети
           </Link>
         </ul>

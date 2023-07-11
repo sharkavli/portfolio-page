@@ -31,3 +31,17 @@ code {
 @import url(./blocks/main-section/__card-text/main-section__card-text.css);
 @import url(./blocks/main-section/__card/_flip/main-section__card_flip.css);
 @import url(./blocks/footer/footer.css);
+@import url(./blocks/aboutme/aboutme.css);
+@import url(./blocks/swiper/swiper.css);
+@import url(./blocks/swiper/__card/swiper__card.css);
+@import url(./blocks/swiper/__picture/swiper__picture.css);
+@import url(./blocks/swiper/__text/swiper__text.css);
+@import url(./blocks/swiper/__title/swiper__title.css);
+@import url(./blocks/swiper/__about/swiper__about.css);
+@import url(./blocks/swiper/__card/_fliped/swiper__card_fliped.css);
+@import url(./blocks/about-me/about-me.css);
+@import url(./blocks/about-me/__welcome/about-me__welcome.css);
+@import url(./blocks/about-me/__title/about-me__title.css);
+@import url(./blocks/about-me/__title-extra/about-me__title-extra.css);
+@import url(./blocks/about-me/__text-container/about-me__text-container.css);
+@import url(./blocks/about-me/__paragraph/about-me__paragraph.css);

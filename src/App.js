@@ -1,6 +1,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Main from './components/Main.js';
-import Projects from './components/Projects.js';
+import Main from './components/Main/Main.js';
+import AboutMe from './components/AboutMe/AboutMe.js';
+import Projects from './components/Projects/Projects.js';
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path="portfolio-page/" element={<Main />} />
+          <Route path="/about-me" element={<AboutMe />} />
           <Route path="/projects" element={<Projects />} />
         </Routes>
       </BrowserRouter>

@@ -7,8 +7,8 @@ export default function AboutMe() {
   return (
     <div className="AboutMe">
       <Header />
-      <Slider cards={cards} />
       <DescriptionAboutMe />
+      <Slider cards={cards} />
     </div>
   );
 }

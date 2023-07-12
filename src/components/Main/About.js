@@ -22,6 +22,15 @@ export default function About() {
             сайту должно быть понятно, но я старался больше показать свои
             возможности кодинга. Дизайн странички разрабатывал я, как умею🤓
           </li>
+          <li className="about__item">
+            <span className="about__item_span">Контакты: </span>
+          </li>
+          <li className="about__item">
+            <span className="about__item_span">Telegram: </span>
+            @avli29
+            <span className="about__item_span"> E-mail: </span>
+            saidovavli@gmail.com
+          </li>
         </ul>
       </div>
     </div>

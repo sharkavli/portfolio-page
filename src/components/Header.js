@@ -14,11 +14,8 @@ export default function Header() {
           <Link className="header__item" to="/projects">
             Проекты
           </Link>
-          <Link className="header__item" to="/cooperation">
-            Сотрудничество
-          </Link>
-          <Link className="header__item" to="/social">
-            Соц-сети
+          <Link className="header__item" to="/games">
+            🎮
           </Link>
         </ul>
       </div>

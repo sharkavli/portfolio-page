@@ -13,7 +13,7 @@ export default function CardSlide({ card }) {
     }
   }
 
-//   setTimeout(flipText, 5000);
+  setTimeout(flipText, 5000);
 
   return (
     <div

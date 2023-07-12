@@ -1,0 +1,8 @@
+.guess-number_strip {
+  position: absolute;
+  top: -400px;
+  width: 50px;
+  height: 1000px;
+  background-color: rgba(255, 255, 255, 0.05);
+  transform: rotate(45deg);
+}

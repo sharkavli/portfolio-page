@@ -2,10 +2,15 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+    'Common Pixel', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   background-color: #f0f0f0;
+  height: 100%;
+}
+
+html {
+  height: 100%;
 }
 
 code {
@@ -13,6 +18,7 @@ code {
     monospace;
 }
 
+@import url('https://fonts.cdnfonts.com/css/common-pixel');
 @import url(./blocks/Main/main.css);
 @import url(./blocks/header/header.css);
 @import url(./blocks/header/__routes/header__routes.css);
@@ -57,3 +63,14 @@ code {
 @import url(./blocks/popup/__image/popup__image.css);
 @import url(./blocks/popup/__text/popup__text.css);
 @import url(./blocks/popup/__close/popup__close.css);
+@import url(./blocks/games/games.css);
+@import url(./blocks/games/__return-menu/games__return-menu.css);
+@import url(./blocks//menu/menu.css);
+@import url(./blocks/menu/__items/menu__items.css);
+@import url(./blocks/menu/__item/menu__item.css);
+@import url(./blocks/guess-number/guess-number.css);
+@import url(./blocks/guess-number/__start-menu/guess-number__start-menu.css);
+@import url(./blocks/guess-number/_strip/guess-number_strip.css);
+@import url(./blocks/guess-number/_strip/guess-number_strip2.css);
+@import url(./blocks/guess-number/__start/guess-number__start.css);
+@import url(./blocks/guess-number/__text/guess-number__text.css);

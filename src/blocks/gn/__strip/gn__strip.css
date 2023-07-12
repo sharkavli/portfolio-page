@@ -1,0 +1,7 @@
+.gn__strip {
+  background-color: rgba(0, 128, 0);
+  width: 100%;
+  height: 15px;
+  position: absolute;
+  top: 135px;
+}

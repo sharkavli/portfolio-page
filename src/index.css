@@ -74,3 +74,13 @@ code {
 @import url(./blocks/guess-number/_strip/guess-number_strip2.css);
 @import url(./blocks/guess-number/__start/guess-number__start.css);
 @import url(./blocks/guess-number/__text/guess-number__text.css);
+@import url(./blocks/gn/gn.css);
+@import url(./blocks/gn/__number/gn__random-number.css);
+@import url(./blocks/gn/__answer/gn__answer.css);
+@import url(./blocks/gn/__submit/gn__submit.css);
+@import url(./blocks/gn/_wrong/gn_wrong.css);
+@import url(./blocks/gn/__strip/gn__strip.css);
+@import url(./blocks/gn/__result/gn__result.css);
+@import url(./blocks/gn/__strip/gn__strip2.css);
+@import url(./blocks/gn/__restart/gn__restart.css);
+@import url(./blocks/gn/__controls/gn__controls.css);

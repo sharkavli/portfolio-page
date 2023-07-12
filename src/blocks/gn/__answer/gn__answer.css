@@ -1,0 +1,15 @@
+.gn__answer {
+  font-family: 'Common Pixel', sans-serif;
+  width: 136px;
+  height: 64px;
+  border: none;
+  /* border-radius: 10px; */
+  background-color: rgb(0, 0, 0);
+  color: green;
+  text-align: center;
+  border: 3px solid green;
+  font-size: 40px;
+  position: absolute;
+  left: 90px;
+  bottom: 75px;
+}

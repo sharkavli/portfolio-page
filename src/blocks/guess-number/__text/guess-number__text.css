@@ -1,3 +1,5 @@
 .guess-number__text {
   text-align: center;
+  font-size: 48px;
+  margin: 10px;
 }
